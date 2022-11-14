@@ -104,7 +104,7 @@ h1 {
     
 }
 
-.nav-links-mobile h3 {
+li.contact {
     padding: 5px 10px;
     background-color: rgb(247, 247, 64);
     border-radius: 10px;
@@ -114,12 +114,10 @@ h1 {
     margin: 0 40px;
 }
 
-.contact, .contact a {
+li.contact {
     padding: 5px 10px;
     background-color: rgb(247, 247, 64);
     border-radius: 10px;
-    font-weight: 600;
-    color: #000;
 }
 
 .row-1, .row-2{
